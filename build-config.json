@@ -1,0 +1,14 @@
+{
+  "buildPath": "public/build/",
+  "lessSrc": "public/less/main.less",
+  "jsSrc": [
+    "public/vendor/jquery-2.1.3.min.js",
+    "public/vendor/jquery.plugins.min.js",
+    "public/js/main.js"
+],
+"filesToMove": [
+      "public/fonts/**/*.*",
+      "public/favicon.ico"
+    ]
+
+}
