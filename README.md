@@ -6,7 +6,7 @@ Demo - http://hs105133.github.io/ms-tourism-app/public/
 ### Important Links
 Source Code - https://github.com/hs105133/ms-tourism-app/tree/gh-pages
 
-Development - http://hs105133.github.io/ms-tourism-app/
+Development url - http://hs105133.github.io/ms-tourism-app/public/
 
 Production url - `optimized for the web` - https://tourism-app.herokuapp.com/
 
